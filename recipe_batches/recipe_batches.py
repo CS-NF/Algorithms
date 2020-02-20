@@ -2,6 +2,16 @@
 
 import math
 
+#  *** Understand *** 
+# I know that the arguments recipeand ingredients are dictionaries 
+#  In the ingredient dictionary the key is how much of the ingredient you in your personal inventory (What the cook as in the kitchen) 
+# In the recipe dictionary the key is going to be the ingredient name and the value is how much of that ingredient the recipe requires (the ingredients that are only in the book/recipe) 
+# What I need to do:  using the ingredient dictionary find the maximum number of whole batches that can be made
+
+# *** Plan (pseudocode) ***
+# 
+
+
 def recipe_batches(recipe, ingredients):
   pass 
 
