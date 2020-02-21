@@ -9,7 +9,7 @@ import math
 # What I need to do:  using the ingredient dictionary find the maximum number of whole batches that can be made
 
 # *** Plan (pseudocode) ***
-# 
+# create for loop
 
 
 def recipe_batches(recipe, ingredients):
