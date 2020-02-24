@@ -2,6 +2,13 @@
 
 import sys
 
+# *** Understand ***
+
+
+# *** Plan ***
+
+
+
 def making_change(amount, denominations):
   pass 
 
